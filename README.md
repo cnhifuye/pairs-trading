@@ -88,30 +88,6 @@ Maximum drawdown
 Volatility
 Trade statistics
 
-Project Structure
-
-pairs_trading/
-│
-├── main.py
-│
-├── fmp_loader.py
-│
-├── pair_selection.py
-├── rolling_beta.py
-├── features.py
-│
-├── signal_generator.py
-├── position_sizer.py
-├── risk_manager.py
-│
-├── hmm_regime.py
-│
-├── backtester.py
-├── performance_analyzer.py
-├── visualization.py
-│
-└── README.md
-
 Data Source
 
 Market data is loaded through:
