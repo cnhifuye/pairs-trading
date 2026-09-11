@@ -108,9 +108,7 @@ Add machine learning based signal generation
 Compare performance against benchmark strategies
 
 
-Disclaimer
+Disclaimer:
 
 This project is developed for educational and research purposes only.
-
-It does not represent financial advice or a recommendation to trade.
 
